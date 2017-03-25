@@ -1,0 +1,15 @@
+1. GUI: choose the color
+2. Function: Window in the middle and adjustable;
+             help menu to make the instruction clear;
+             labyrinth dimension adjustable;
+             save and reload more than one labyrinth
+3. Interaction: Shift+click for setting the extremities
+                Ctrl+O/S for file operations
+                add appropriate menus
+4. Program: multiple threads for saving files automatically(GameThread)
+            Other means except clicking one by one for building the labyrinth
+            Exception handle (perhaps other modules inquired by the professor have not yet been done)
+            Program note and generate Javadoc
+            don't identify a box by its mark
+5. Evaluation: The final version to be handed in on the git
+6. Export: A small program executing independently on different platforms(jar, exe4j) 
