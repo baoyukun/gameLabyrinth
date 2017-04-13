@@ -24,3 +24,5 @@ Set an \"empty\" block:  Shift-drag the mouse from up-left corner to down-right 
 Hope you an enjoyful journey O(∩\_∩)O  
 Any questions or suggestions, please propose new issues, send pull requests or contact directly with the author:  
 BAO Yukun    yukun.bao@telecom-paristech.fr
+
+![screen shot](https://github.com/baoyukun/gameLabyrinth/blob/990258212945289f63759cc46b7b2be1fa594e58/data/GUI.png "screen shot")
